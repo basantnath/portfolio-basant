@@ -52,7 +52,7 @@ nav a:hover::after {
 
 @font-face {
   font-family: 'CustomFont';
-  src: url('../assets/fonts/CeniosdemoRegular-MVKzY.otf') format('opentype'); 
+  src: url('../fonts//CeniosdemoRegular-MVKzY.otf') format('opentype'); 
   font-weight: normal; 
   font-style: normal; 
 }
